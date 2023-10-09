@@ -44,7 +44,6 @@ button {
 /* Header */
 
 .header {
-  position: fixed;
   width: 100%;
   padding: 44.71px 0;
   color: #fff;
@@ -53,8 +52,6 @@ button {
   font-style: normal;
   font-weight: 500;
   line-height: normal;
-
-  border-bottom: 1px #fff solid;
 }
 
 .header-nav {
